@@ -154,6 +154,24 @@ img {
     }
     
     .lessons .col:first-child {
-       margin-bottom: 20px;
+       padding-bottom: 20px;
     }
 
+    /* STEPS SECTION */
+
+    @media screen and ( max-width: 480px) {
+
+        .steps .col {
+            width: 100%;
+        }
+
+        .steps .col {
+            padding-bottom: 20px;
+         }
+         
+         .steps .col:last-child {
+            padding-bottom: 0px;
+         }
+        
+     }
+    
