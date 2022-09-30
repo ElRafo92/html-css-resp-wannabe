@@ -153,3 +153,7 @@ img {
         width: 100%;
     }
     
+    .lessons .col:first-child {
+       margin-bottom: 20px;
+    }
+
