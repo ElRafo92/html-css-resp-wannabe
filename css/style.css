@@ -147,7 +147,9 @@ img {
         display: block;
     }
     
-    .steps .col {
-        max-width: 100%;
+    /* LESSONS SECTION */
+
+    .lessons .col {
+        width: 100%;
     }
- }
+    
